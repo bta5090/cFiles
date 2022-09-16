@@ -137,7 +137,7 @@ int main() {
 
     printf("\nIt's time to do your maths homework!\n");
 
-    printf("\nSection 1: Square Roots\n\n");
+    printf("\nSection 99: Square Roots\n\n");
     printf("The square root of 49.0 is %.1f\n", sqrt(49.0));
     printf("The square root of 149.0 is %.1f\n", sqrt(149.0));
     printf("The square root of 0.149 is %.3f\n\n", sqrt(0.149)); 
